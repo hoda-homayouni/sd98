@@ -1,8 +1,8 @@
 # Site settings
 title: Iran University of Science and Technology (IUST)
-course_name: Course Name
+course_name: Project Management
 course_description: "Project Management"
-course_semester: "Fall 2050"
+course_semester: "Spring 2019"
 description: |
     Instructor: Hoda Homayouni
 
@@ -17,7 +17,7 @@ twitter_username: username
 github_username:  username
 authorurl: "http://author-url.com/page"
 address: |
-    School of Computer Engineering
+    School of Architecture
     Iran University of Science and Technology
     Tehran, Iran
 
