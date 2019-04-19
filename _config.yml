@@ -7,8 +7,8 @@ description: |
     Instructor: Hoda Homayouni
 
 message: Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/base-url" # the subpath of your site, e.g. /blog/
-url: "http://iust-courses.github.io/" # the base hostname & protocol for your site
+baseurl: "/pm97" # the subpath of your site, e.g. /blog/
+url: "http://hoda-homayouni.github.io/pm97" # the base hostname & protocol for your site
 githubdir: "username/repo"
 
 # Author/user information
