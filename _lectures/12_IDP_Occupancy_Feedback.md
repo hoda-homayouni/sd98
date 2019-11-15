@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1397-12-7T13:00:00
+date: 1398-3-7T13:00:00
 title: Session 12- IDP_ Ocupancy, Operations, and Performance Feedback
 slides: /static_files/presentations/12th-session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
