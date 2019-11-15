@@ -6,13 +6,12 @@ course_semester: "Spring 2019"
 description: |
     Instructor: Hoda Homayouni
 
-message: Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
+message: Join our Telegram group <a href="https://t.me/joinchat/B73pJkrOWP_FwVba5pUhqg">groups page</a> to get notified about course announcements and add your weekly feedbacks.
 baseurl: "/pm97" # the subpath of your site, e.g. /blog/
 url: "http://hoda-homayouni.github.io/pm97" # the base hostname & protocol for your site
 githubdir: "username/repo"
 
 # Author/user information
-email: instructor-last-name@iust.ac.ir
 twitter_username: username 
 github_username:  username
 authorurl: "http://author-url.com/page"
