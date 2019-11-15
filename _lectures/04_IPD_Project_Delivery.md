@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1397-21-7T13:00:00
+date: 1397-12-7T13:00:00
 title: Session 4- IPD Project Delivery
 slides: /static_files/presentations/4th-session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
