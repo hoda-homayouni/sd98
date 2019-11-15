@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1397-12-7T8:00:00+4:30
+date: 1397-12-7
 title: Second Session- Integrated Design Process
 slides: /static_files/presentations/2nd-Session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
