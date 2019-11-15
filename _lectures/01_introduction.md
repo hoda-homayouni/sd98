@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 1397-11-30T13:00:00
-title: First Session- Course Introduction- Design, Construction & Project Management
+title: Session 1- Course Introduction- Design, Construction & Project Management
 slides: /static_files/presentations/1st-Session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
