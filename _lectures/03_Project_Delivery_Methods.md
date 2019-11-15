@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1397-12-21T13:00:00
+date: 1397-12-14T13:00:00
 title: Session 3- Construction Project Delivery Methods
 slides: /static_files/presentations/3rd-session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
