@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 1397-12-7T13:00:00
-title: Second Session- Integrated Design Process
-slides: /static_files/presentations/2nd-Session-project-management.pdf
+title: Session 12- IDP_ Ocupancy, Operations, and Performance Feedback
+slides: /static_files/presentations/12th-Session-project-management.pdf
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
 #tldr: "Short text to discribe what this lecture is about."
