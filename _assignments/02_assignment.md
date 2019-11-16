@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 1398-2-10T4:00:00
-title: 'Assignment #2 - Hiding elements, Creating viewpoints, and creating animation in Navisworks'
-pdf: /static_files/Software-Assignments/2nd-assignment-project-management.pdf
-attachment: /static_files/Attachments/Low_rise_Architectural_Model.rar
+date: 1398-2-17T4:00:00
+title: 'Assignment #3 - Clash Detectiion and Creating Clash Report in Navisworks'
+pdf: /static_files/Software-Assignments/3rd-assignment-project-management.pdf
+attachment: /static_files/Attachments/stadium.rar
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 1398-2-17T23:59:00
+due: 1398-2-24T23:59:00
 ---
 
