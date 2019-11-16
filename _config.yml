@@ -4,7 +4,7 @@ course_name: Project Management
 course_description: "Project Management"
 course_semester: "Second Semester Academic Year 1997-1998"
 description: "Advanced topics in Design and Construction Project Management"
-Instructor: Hoda Homayouni Ph.D.
+Instructor: "Hoda Homayouni Ph.D."
 
 message: Join our Telegram group <a href="https://t.me/joinchat/B73pJkrOWP_FwVba5pUhqg">groups page</a> to get notified about course announcements and add your weekly feedbacks.
 baseurl: "/pm97" # the subpath of your site, e.g. /blog/
