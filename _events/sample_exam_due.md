@@ -1,10 +1,10 @@
 ---
 type: exam
-date: 2018-12-02T8:0:0+3:30
-description: 'Midterm'
+date: 1398-4-11T8:0:0
+description: 'Final'
 hide_from_announcments: true
 ---
 **Topics:**
-<br> - Topic 1
-<br> - Topic 2
-<br> - Topic 3
+**<br> - Topic 1**
+**<br> - Topic 2**
+**<br> - Topic 3**
