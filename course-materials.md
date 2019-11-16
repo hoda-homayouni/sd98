@@ -16,7 +16,8 @@ permalink: /course-materials/
 <li>
 <B>BIM Handbook</B> by Chuck Eastman et al. Here is the Book preview by Amazon:<a href="https://www.amazon.com/BIM-Handbook-Information-Designers-Contractors/dp/0470541377">https://www.amazon.com/BIM-Handbook-Information-Designers-Contractors/dp/0470541377</a>
 </li>
-
+<Br>
+<Br>
 ## Documents
 <li>
 <B>Integrated Design Process Facilitation Resource Guide</B> By Sustainability Solutions Group. Here is the document pdf:<a href="/static_files/Course-Materials/02-IDP-Facilitation-Resource-Guide">IDP-Facilitation Resource Guide</a>
@@ -30,6 +31,8 @@ permalink: /course-materials/
 <li>
 <B> A Handbook for Planning Charrettes</B> by National Renewable Energy Labratory. Here is the document pdf:<a href="/static_files/Course-Materials/10-A-Handbook-for-Planning-Charrettes.pdf">A Handbook for Planning Charrettes</a>
 </li>
+<Br>
+<Br>
 
 ## Additional Resources
 
