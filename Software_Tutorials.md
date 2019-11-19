@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software-Tutorials
-permalink: /lectures/
+permalink: /Software-Tutorials/
 ---
 
 You can download the Software tutorials here (in PDF format).
