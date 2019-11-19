@@ -4,7 +4,7 @@ title: Software-Tutorials
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format).
+You can download the Software tutorials here (in PDF format).
 
 
 <ul id="archive">
