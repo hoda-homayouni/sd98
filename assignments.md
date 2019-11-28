@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
-You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
+The Assignments provided for this class are as follows:
 
 
 <ul id="archive">
