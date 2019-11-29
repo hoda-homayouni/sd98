@@ -7,8 +7,8 @@ description: "An Indepth Review of Integrated approaches in achieivng sustainabl
 Instructor: "Hoda Homayouni Ph.D."
 
 message: Join our Telegram group <a href="https://t.me/joinchat/B73pJksxaUP0vQBdS8PSvg">groups page</a> to get notified about course announcements and add your weekly feedbacks.
-baseurl: "/pm97" # the subpath of your site, e.g. /blog/
-url: "http://hoda-homayouni.github.io/pm97" # the base hostname & protocol for your site
+baseurl: "/sd97" # the subpath of your site, e.g. /blog/
+url: "http://hoda-homayouni.github.io/sd97" # the base hostname & protocol for your site
 githubdir: "username/repo"
 
 # Author/user information
