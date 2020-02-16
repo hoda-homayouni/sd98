@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 1398-2-10T4:00:00
-title: 'Assignment #3 - Preparing a workshop report'
+date: 1399-1-30T4:00:00
+title: 'Assignments #3 & 4 - Preparing a report for workshop #1-Preparing the initial OPR document'
 pdf: 
 attachment: 
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 1398-2-24T23:59:00
+due: 1399-1-26T23:59:00
 ---
 

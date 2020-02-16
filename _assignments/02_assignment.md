@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 1398-2-3T4:00:00
-title: 'Assignment #2 - Preparing the wrokshop schecule'
+date: 1399-1-19T4:00:00
+title: 'Assignment #2 - Preparing the schecule for workshop #1'
 pdf: 
 attachment:
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 1398-2-10T23:59:00
+due: 1399-2-26T23:59:00
 ---
 
