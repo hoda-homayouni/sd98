@@ -5,6 +5,6 @@ title: 'Assignment #2 - Preparing the schecule for workshop #1'
 pdf: 
 attachment:
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 2020-5-15T23:59:00
+due: 2020-4-15T23:59:00
 ---
 
