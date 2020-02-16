@@ -7,14 +7,15 @@ permalink: /course-materials/
 
 ## Books
 
-<li>
-<B>Management of construction projects- a contractor’s perspective</b> by John Schaufelberger & Len Holm. Here is the Book preview by Amazon:<a href="https://www.amazon.com/Management-Construction-Projects-Constructors-Perspective/dp/113869391X">https://www.amazon.com/Management-Construction-Projects-Constructors-Perspective/dp/113869391X</a> 
-</li>
+
 <li>
 <B>The Integrative Design Guide to Green Building Design and Construciton</B> by 7Group and Bill Reed. Here is the Book preview by Amazon: <a href="https://www.amazon.com/Integrative-Design-Guide-Green-Building-ebook/dp/B005VREIGO">https://www.amazon.com/Integrative-Design-Guide-Green-Building-ebook/dp/B005VREIGO</a>
 </li>
 <li>
 <B>Cradle to Cradle: Remaking the way we make things</B> by Michael Braungart and William McDonough. Here is the Book preview by Amazon:<a href="https://www.amazon.com/Cradle-Remaking-Way-Make-Things/dp/0865475873">https://www.amazon.com/Cradle-Remaking-Way-Make-Things/dp/0865475873</a>
+</li>
+<li>
+<B>Management of construction projects- a contractor’s perspective</b> by John Schaufelberger & Len Holm. Here is the Book preview by Amazon:<a href="https://www.amazon.com/Management-Construction-Projects-Constructors-Perspective/dp/113869391X">https://www.amazon.com/Management-Construction-Projects-Constructors-Perspective/dp/113869391X</a> 
 </li>
 <Br>
 <Br>
