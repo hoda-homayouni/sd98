@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 1398-12-6T4:00:00
+date: 2020-2-25T4:00:00
 title: 'Assignment #1 - Preparing a Partnership Agreement'
 pdf: 
 attachment: 
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 1398-12-20T23:59:00
+due: 2020-3-10T23:59:00
 ---
 
