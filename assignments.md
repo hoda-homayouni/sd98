@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Assignments
+title: Project Assignments
 permalink: /assignments/
 ---
 
-The Assignments provided for this class are as follows:
+The project assignments provided for this class are as follows:
 
 
 <ul id="archive">
