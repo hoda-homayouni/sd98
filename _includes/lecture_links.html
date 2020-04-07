@@ -13,12 +13,12 @@
       {{ include.lecture.notes | prepend: site.baseurl }} 
     {% endif %}">notes</a>]
     {% endif %}
-    {% if include.lecture.codes %}
-    [<a title="Download codes (zip)" href="
-    {% if include.lecture.codes contains '://' %}
-      {{ include.lecture.codes }} 
+    {% if include.lecture.presentation %}
+    [<a title="Download Presentation (mp4)" href="
+    {% if include.lecture.presentation contains '://' %}
+      {{ include.lecture.presentation }} 
     {% else %}
-      {{ include.lecture.codes | prepend: site.baseurl }} 
-    {% endif %}">codes</a>]
+      {{ include.lecture.presentation | prepend: site.baseurl }} 
+    {% endif %}">Presentation</a>]
     {% endif %}
 </div>
