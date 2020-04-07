@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-03-03T13:00:00
-title: Session 4- Creating and Sustaining High-Performance Teams
+title: Session 4- IDP-The Discovery Phase
 slides: /static_files/presentations/4th-session-4-7-2020.pdf
 presentation: /static_files/x.mp4
 #notes: /static_files/presentations/lec.zip
