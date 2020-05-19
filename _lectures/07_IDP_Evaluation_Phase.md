@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-04-28T13:00:00
-title: Session 7- IDP- Evaluation Phase
+title: Session 7- IDP-Evaluation Phase
 slides: /static_files/presentations/7th-session-4-28-2020.pdf
 presentation: /static_files/videos/7th-session-4-28-2020.mp4
 #notes: /static_files/presentations/lec.zip
