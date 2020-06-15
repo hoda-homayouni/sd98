@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2020-6-2T4:00:00
-title: 'Assignment #5 - Designing two Questions for the final exam'
+title: 'Assignment #5 - Designing three Questions for the final exam'
 pdf: /static_files/Assignments/Assignment-5-Designing-Questions-for-the-final.pdf
 attachment: 
 #solutions: /static_files/assignments/asg_solutions.pdf
