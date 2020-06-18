@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-05-13T13:00:00
-title: Session 13- IPD_ Commercial Terms
+title: Session 14- BIM
 slides: /static_files/presentations/14th-session-6-16-2020.pdf
 presentation: /static_files/videos/14th-session-6-16-2020.mp4
 #notes: /static_files/presentations/lec.zip
