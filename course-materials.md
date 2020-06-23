@@ -21,10 +21,10 @@ permalink: /course-materials/
 <Br>
 ## Documents
 <li>
-<B>Integrated Design Process Facilitation Resource Guide</B> By Sustainability Solutions Group. Here is the document pdf:<a href="/static_files/Course-Materials/02-IDP-Facilitation-Resource-Guide">IDP-Facilitation Resource Guide</a>
+<B>Integrated Design Process Facilitation Resource Guide</B> By Sustainability Solutions Group. Here is the document pdf:<a href="static_files/Course-Materials/02-IDP-Facilitation-Resource-Guide">IDP-Facilitation Resource Guide</a>
 </li>
 <li>
-<B>Managing Integrated Project Delivery</B> by CMAA. Here is the docuemnt pdf:<a href="/static_files/Course-Materials/03-CMAA_Managing_Integrated_Project_Delivery.pdf">CMAA-Managing Integrated Project Delivery</a>
+<B>Managing Integrated Project Delivery</B> by CMAA. Here is the docuemnt pdf:<a href="static_files/Course-Materials/03-CMAA_Managing_Integrated_Project_Delivery.pdf">CMAA-Managing Integrated Project Delivery</a>
 </li>
 
 <li>
